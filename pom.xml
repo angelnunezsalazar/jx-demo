@@ -50,5 +50,11 @@
 		</plugins>
 	</build>
 
-
+	<distributionManagement>
+		<repository>
+			<id>central</id>
+			<name>libs-release</name>
+			<url>http://artifactory.jx.35.229.103.201.nip.io/artifactory/libs-release</url>
+		</repository>
+	</distributionManagement>
 </project>
