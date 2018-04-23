@@ -3,3 +3,8 @@ description: A Helm chart for Kubernetes
 icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
 name: jx-demo
 version: 0.1.0-SNAPSHOT
+sources:
+- https://github.com/snahider/jx-demo
+maintainers:
+- name: Angel Nuñez
+  email: snahider@gmail.com
